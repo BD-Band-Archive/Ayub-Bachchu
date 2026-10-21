@@ -18,6 +18,9 @@
 2. [Prem Tumi Ki (প্রেম তুমি কি?) (2000)](#2-prem-tumi-ki)
 3. [Duti Mon (দুটি মন) (2002)](#3-duti-mon)
 
+### 💿 Mixed Albums
+4. [Deep Nevar Age (দীপ নেভার আগে) (2015)](#4-deep-nevar-age-2015)
+
 ---
 
 <a id="1-rupali-guitar"></a>
@@ -134,6 +137,15 @@ Released in 2002, *Duti Mon* combines melodic pop-rock sensibilities with Bachch
 ### 💿 CD Ripper & Preservation Credit
 - **Preserved & Ripped by:** NirZak (Nirjas Jakilim) / Bangla Flac Preservation Community
 - **Source:** Original Physical CD / Cassette Lossless Audio Archive
+
+---
+
+<a id="4-deep-nevar-age-2015"></a>
+## 4. [Deep Nevar Age (দীপ নেভার আগে) (2015)](https://github.com/BD-Band-Archive/Mixed-Albums#32-deep-nevar-age-2015)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Ayub Bachchu - Shobugh Ghasher Golpo**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/05%20Shobugh%20Ghasher%20Golpo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/05%20Shobugh%20Ghasher%20Golpo.flac?download=true)
 
 ---
 
