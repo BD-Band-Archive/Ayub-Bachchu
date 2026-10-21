@@ -1,0 +1,29 @@
+Album Name: Duti Mon
+Album Type: Solo
+Release Year: 2002
+Genre: Films/Games;Film Scores
+Total Songs: 10
+Track List:
+01. Aamar E Jibon
+02. Bhalobasa
+03. Bumsakalaka
+04. Dhire Dhire
+05. Duniya
+06. Duti Mon
+07. Eai Rod Eai Megh
+08. Ek Hoye Jaai
+09. Kato Dure Bandhu
+10. Nesha
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 985 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.0 (2013-05-26)
