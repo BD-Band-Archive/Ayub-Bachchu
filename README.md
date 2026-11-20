@@ -10,6 +10,8 @@
 
 > "Ayub Bachchu (AB) is widely heralded as the greatest rock guitarist, vocalist, and composer in the history of Bangladesh. A virtuoso whose thunderous blues-rock solos, electrifying stage presence, and soulful melodies shaped the course of modern South Asian rock music, his monumental solo discography stands as a timeless national treasure."
 
+🎵 **Stream Lossless Audio Online:** [BD Band Music Player](https://bd-band-music.pages.dev/) &bull; [Mirror](https://bd-band-music.netlify.app/)
+
 ---
 
 ## 📑 Discography Index
